@@ -8,5 +8,15 @@
         "D8:C3:69:27:23:DB:BD:B8:84:4E:A4:55:62:D7:81:6B:7D:B5:61:B1:AF:1C:77:CB:55:33:9C:9D:C1:22:6F:03"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.maaverldimyon.app",
+      "sha256_cert_fingerprints": [
+        "5E:D0:16:15:95:49:7C:68:3A:6D:67:A3:93:D9:E1:C0:2F:50:97:32:92:CD:71:8D:77:8B:52:DA:C7:74:27:2D"
+      ]
+    }
   }
 ]
